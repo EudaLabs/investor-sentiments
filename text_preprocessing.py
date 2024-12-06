@@ -149,7 +149,7 @@ class TextPreprocessor:
 # Example usage
 def main():
     # Specify your file path
-    file_path = '/Users/efecelik/Desktop/investor-sentiments/datasets/zeroshot_twitter-financial-news-sentiment_train.csv'
+    file_path = '/Users/efecelik/Desktop/investor-sentiments/datasets/zeroshot_twitter-financial-news-sentiment_train.csv'#update path
 
     # Initialize preprocessor
     preprocessor = TextPreprocessor(load_path=file_path)
