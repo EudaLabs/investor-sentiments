@@ -13,3 +13,7 @@ may impact stock price trends. Finally, we will analyze the relationship between
 trends and stock prices using time-series and correlation analysis. Through this multifaceted NLP 
 application, we intend to deepen our understanding and explore the potential predictive power of 
 investor sentiment on market prices.
+
+Synthetic Data:
+Real Data:
+BTC price data:
