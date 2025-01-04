@@ -14,6 +14,12 @@ trends and stock prices using time-series and correlation analysis. Through this
 application, we intend to deepen our understanding and explore the potential predictive power of 
 investor sentiment on market prices.
 
-Synthetic Data:
-Real Data:
-BTC price data:
+
+
+Datasets:
+
+Synthetic Tweet Dataset: https://huggingface.co/datasets/TimKoornstra/synthetic-financial-tweets-sentiment
+
+Real Tweet Dataset: https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets
+
+Bitcoin Price Dataset: https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset
