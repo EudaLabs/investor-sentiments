@@ -1,7 +1,7 @@
 ## 🧠 **Bitcoin Tweet Sentiment & Topic Analysis**  
 
 ### 📚 **Team Members**  
-- **Member:**   [Efe Celik](https://github.com/efeecllk)  
+- **Team Lead:**   [Efe Celik](https://github.com/efeecllk)  
 - **Member:**   [Ulas Ucrak](https://github.com/ulasucrak)  
 - **Member:**   [Eray Acikgoz](https://github.com/ackgz0)
 
