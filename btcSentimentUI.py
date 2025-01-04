@@ -4,7 +4,7 @@ import numpy as np
 from gensim.models import Word2Vec
 
 # Load the logistic regression model
-with open('llogistic_model.pkl', 'rb') as file:
+with open('models/llogistic_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 # Load the Word2Vec model

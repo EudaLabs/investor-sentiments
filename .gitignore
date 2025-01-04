@@ -1,6 +1,6 @@
 *.csv
 datasets/
-
+models/
 #Models
 *.pkl
 *.npy
