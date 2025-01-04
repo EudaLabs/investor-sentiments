@@ -9,7 +9,7 @@
 
 ### 🎯 **Project Overview**  
 In this study, we aimed to analyze the **sentiment** and **topic distribution** of **Bitcoin-related tweets** using both **synthetic** and **real datasets**. Our goal was to:  
-- Predict tweet **sentiments** (*bearish*, *bullish*, *neutral*).  
+- Predict tweet **sentiments** (*bearish*, *bullish*, *neutral*).  [Hugging Face App](https://huggingface.co/spaces/EudaLabs/tweet-sentiment)
 - Assess the **relationship** between tweet sentiment and **Bitcoin price movements**.  
 - Evaluate the **influence of users** based on follower count and verification status.  
 - Compare **topic similarity** between synthetic and real datasets.  
